@@ -33,6 +33,7 @@ export default function Home(){
             <KartuProfil nama="Ikhsan" kelas="XII RPL 1" hobi="Bermain Simulator Terbang"/>
             <KartuProfil nama="Lili" kelas="XII RPL 1" hobi="Berenang"/>
             <KartuProfil nama="Budi" kelas="XII RPL 1" hobi="Bermain Futsal"/>
+            <KartuProfil nama="Giman" kelas="XII RPL 1" hobi="Cium" />
 
         </main>
     );
